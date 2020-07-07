@@ -1,4 +1,4 @@
-# teamsb-web
+# TeamSB Website Repository
 
 ![img](https://images-ext-1.discordapp.net/external/XZOob_UTFjWocB5cAH30YuMD2LznNh5mIKqqgaEL6uM/%3Fsize%3D1024/https/cdn.discordapp.com/icons/681002025873702973/b30c6abbed6ca33a6cccd4b3fda65bc9.webp?width=702&height=702)
 
