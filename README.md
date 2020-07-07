@@ -3,7 +3,7 @@
 ![img](https://images-ext-1.discordapp.net/external/XZOob_UTFjWocB5cAH30YuMD2LznNh5mIKqqgaEL6uM/%3Fsize%3D1024/https/cdn.discordapp.com/icons/681002025873702973/b30c6abbed6ca33a6cccd4b3fda65bc9.webp?width=702&height=702)
 
 [TeamSB 공식 디스코드](https://discord.gg/c9daxpF)
-[TeamSB 공식 홈페이지[(https://teamsb.ga/)
+[TeamSB 공식 홈페이지](https://teamsb.ga/)
 [TeamSB 문의 이메일 전송](mailto:teamsbots@gmail.com)
 
 ---
